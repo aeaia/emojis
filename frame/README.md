@@ -2,9 +2,11 @@
 
 try this in slack to learn what's up
 
+```
 :frame-7::frame-8::frame-9:
 :frame-4::peach::frame-6:
 :frame-1::frame-2::frame-3:
+```
 
 it's like a numpad:
 
